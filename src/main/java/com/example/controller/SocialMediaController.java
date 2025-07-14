@@ -26,6 +26,7 @@ import java.util.List;
  * REST Controller for the Social Media API.
  * Defines endpoints for user registration, login, and message operations.
  */
+//
 @RestController
 public class SocialMediaController {
 
